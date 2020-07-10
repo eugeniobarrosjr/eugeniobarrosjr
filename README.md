@@ -1,16 +1,15 @@
-### Hi there 👋
+# Eugênio Barros  
+[![Twitter Badge](https://img.shields.io/badge/-@eugeniobarrosjr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eugeniobarrosjr)](https://twitter.com/eugeniobarrosjr) [![Linkedin Badge](https://img.shields.io/badge/-eugeniobarrosjr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugeniobarrosjr/)](https://www.linkedin.com/in/eugeniobarrosjr/)
+[![Gmail Badge](https://img.shields.io/badge/-eugenio.barros.jr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugenio.barros.jr@gmail.com)](mailto:eugenio.barros.jr@gmail.com)
 
-<!--
-**eugeniobarrosjr/eugeniobarrosjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Eugênio, I'm a mobile software engineer 👨‍💻 who is passionate about mobile technologies and design.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flutter and React Native Apps
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about: Anything
+- ⚡ Languages: Javascript, Dart, Java & Kotlin
+- 📱  Mobile: Flutter, React Native & Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Working Hard. There are no shortcuts
