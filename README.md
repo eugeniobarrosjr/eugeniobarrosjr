@@ -3,13 +3,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-eugenio.barros.jr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugenio.barros.jr@gmail.com)](mailto:eugenio.barros.jr@gmail.com)
 
 ## Hi 👋, 
-I'm Eugênio, I'm a mobile software engineer 👨‍💻 who is passionate about mobile technologies and design.
+I'm Eugênio, I'm a front end developer 👨‍💻 who is passionate about web technologies and design.
 
-- 🔭 I’m currently working on Flutter and React Native Apps
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on React and React Native Apps
+- 🌱 I’m currently learning React
 - 💬 Ask me about: Anything
-- ⚡ Languages: Javascript, Dart, Java & Kotlin
-- 📱  Mobile: Flutter, React Native & Android
+- ⚡ Languages: Javascript & Typescript
+- 📱  Mobile: React Native
 
 
 > Working Hard. There are no shortcuts
